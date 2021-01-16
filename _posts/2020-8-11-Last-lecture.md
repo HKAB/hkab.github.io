@@ -10,3 +10,13 @@ A really good speech. At last Youtube suggest me something good.
 - [ ] Get an AI Engineer job
 - [ ] A great github repo
 - [ ] Get a job teaching somebody
+
+- [ ] A great PC
+- [ ] Kaggle Competition Master
+- [ ] Travel > 10 country
+- [ ] Great English certificate
+- [ ] Help poor people
+- [ ] See Eminem
+- [ ] Youtube > 1000 sub
+- [ ] go on ...
+
