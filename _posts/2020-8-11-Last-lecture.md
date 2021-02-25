@@ -18,5 +18,4 @@ A really good speech. At last Youtube suggest me something good.
 - [ ] Help poor people
 - [ ] See Eminem
 - [ ] Youtube > 1000 sub
-- [ ] go on ...
-
+- [ ] A camera
