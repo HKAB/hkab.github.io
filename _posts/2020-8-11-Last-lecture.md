@@ -19,3 +19,4 @@ A really good speech. At last Youtube suggest me something good.
 - [ ] See Eminem
 - [ ] Youtube > 1000 sub
 - [ ] A camera
+- [ ] Visit Albuquerque
