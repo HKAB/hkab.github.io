@@ -18,5 +18,6 @@ A really good speech. At last Youtube suggest me something good.
 - [ ] Help poor people
 - [ ] See Eminem
 - [ ] Youtube > 1000 sub
-- [ ] A camera (Fujifilm)
+- [ ] A camera (Fujifilm XT20 18-55mm Kit)
 - [ ] Visit Albuquerque
+- [ ] Have a lot of pictures
