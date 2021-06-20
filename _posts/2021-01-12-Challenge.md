@@ -1,4 +1,8 @@
-# 100 days of English, d2l, Kaggle, Geekforgeek
+---
+layout: post
+title: Challenge 🏳
+excerpt: Some challenge I done in the past lol
+---
 
 D1.
 

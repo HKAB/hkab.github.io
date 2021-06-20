@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+If i'm not a bush then i'm nobody.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a [Youtube channel](https://www.youtube.com/channel/UCEfdtF7584ZuzqLtKziPZgA) to keep my memory. An [Patreon site](https://www.patreon.com/hkab) to look 🆒
 
-### Contact me
+### Contact me 📮
 
-[email@domain.com](mailto:email@domain.com)
+[myfullnamemybirthday@gmail.com](mailto:nguyenphutruong2707@gmail.com)
