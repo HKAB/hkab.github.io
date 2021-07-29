@@ -6,11 +6,11 @@ excerpt: This is the wish list I update once in a while
 
 [ ]  Write a book
 
-[ ]  Draw good picture
+[ ]  Draw great picture
 
-[ ]  Visit London
+[ ]  Visit London, Albuquerque, Paris
 
-[ ]  Get an AI Engineer job (tried Sun: Fail,)
+[ ]  Get an AI Engineer job (tried Sun: Fail, tried: Viettel)
 
 [ ]  A great github repo
 
@@ -32,6 +32,4 @@ excerpt: This is the wish list I update once in a while
 
 [ ]  A camera (Fujifilm XT20 18-55mm Kit)
 
-[ ]  Visit Albuquerque
-
-[ ]  Have a lot of pictures
+[ ]  Have a lot of art work
