@@ -6,30 +6,22 @@ excerpt: This is the wish list I update once in a while
 
 [ ]  Write a book
 
-[ ]  Draw great picture
+[ ]  Draw a picture a year
 
-[ ]  Visit London, Albuquerque, Paris
+[ ]  Visit London, Albuquerque, Paris (updating)
 
-[ ]  Get an AI Engineer job (tried Sun: Fail, tried: Viettel)
+[ ]  Get an AI Engineer job (tried Sun, Viettel)
 
 [ ]  A great github repo
 
 [ ]  Get a job teaching sth
 
-[ ]  A great PC
-
 [ ]  Kaggle Competition Master
 
-[ ]  Travel > 10 country
-
-[ ]  Great English certificate
-
-[ ]  Help poor people
+[ ]  Have the IELTS certificate
 
 [ ]  See Eminem
 
 [ ]  Youtube > 1000 sub
 
 [ ]  A camera (Fujifilm XT20 18-55mm Kit)
-
-[ ]  Have a lot of art work

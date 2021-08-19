@@ -1,34 +1,30 @@
-// source: https://thoughtbot.com/blog/you-don-t-need-javascript-for-that
-.tooltip-toggle {
-    cursor: pointer;
+
+
+.tooltip {
     position: relative;
-  
-    //Tooltip text container - above element
-    //You can adjust the position to make the container appear below or beside the element
-    &::before {
-      background-color: #000;
-      border-radius: 5px;
-      color: #fff;
-      content: attr(aria-label); //This pulls in the text from the element with the tooltip
-      left: -80px; //This centers the container above the element
-      padding: 1rem;
-      position: absolute;
-      text-transform: none;
-      top: -80px; //This places the container above the element that needs a tooltip
-      transition: all 0.5s ease;
-      min-width: 160px;
-    }
-  
-    //Setting up the transition
-    &::before {
-      opacity: 0;
-      pointer-events: none;
-    }
-  
-    //Triggering the transition
-    &:focus::before,
-    &:hover::before {
-      opacity: 1;
-      transition: all 0.75s ease;
-    }
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
   }
+
+  /* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}

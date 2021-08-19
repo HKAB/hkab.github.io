@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Challenge 🏳
+title: Challenge
 excerpt: Some challenge I done in the past lol
 ---
 
@@ -41,3 +41,5 @@ No coursera
 No g2g
 
 fucking nonsense
+
+> Challenge was just not working
