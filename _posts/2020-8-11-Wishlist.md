@@ -25,3 +25,5 @@ excerpt: This is the wish list I update once in a while
 [ ]  Youtube > 1000 sub
 
 [ ]  A camera (Fujifilm XT20 18-55mm Kit)
+
+[ ]  Publish a paper
