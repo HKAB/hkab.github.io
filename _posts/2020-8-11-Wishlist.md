@@ -8,9 +8,9 @@ excerpt: This is the wish list I update once in a while
 
 [ ]  Draw a picture a year
 
-[ ]  Visit London, Albuquerque, Paris (updating)
+[ ]  Visit London, Albuquerque, Paris (...)
 
-[ ]  Get an AI Engineer job (tried Sun, Viettel)
+[ ]  Get an AI Engineer job
 
 [ ]  A great github repo
 
@@ -24,6 +24,8 @@ excerpt: This is the wish list I update once in a while
 
 [ ]  Youtube > 1000 sub
 
-[ ]  A camera (Fujifilm XT20 18-55mm Kit)
+[ ]  Have a camera (Fujifilm XT20 18-55mm Kit)
 
 [ ]  Publish a paper
+
+[ ]  Have a long journey by foot/bicycle
