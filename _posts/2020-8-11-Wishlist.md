@@ -31,3 +31,5 @@ excerpt: This is the wish list I update once in a while
 [ ]  Have a long journey by foot/bicycle
 
 [ ] A book/month (streak: 0)
+
+[ ] Learn by heart 3254 verses of a poem (264/3254)
