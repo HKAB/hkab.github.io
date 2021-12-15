@@ -6,7 +6,7 @@ excerpt: This is the wish list I update once in a while
 
 [ ]  Write a book
 
-[ ]  Draw a picture a year
+[ ]  Draw a picture a year (2021: Draw [a lot]('Updating'))
 
 [ ]  Visit London, Albuquerque, Paris (...)
 
@@ -29,3 +29,5 @@ excerpt: This is the wish list I update once in a while
 [ ]  Publish a paper
 
 [ ]  Have a long journey by foot/bicycle
+
+[ ] A book/month (streak: 0)
