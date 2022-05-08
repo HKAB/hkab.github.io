@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-If i'm not a bush then i'm nobody.
+I'm interested in art (my favorite painter is Monet).
 
-### More Information
+I'm always bad at picking important date (It's always rainy).
+
+### Social accounts
 
 I have a [Youtube channel](https://www.youtube.com/channel/UCEfdtF7584ZuzqLtKziPZgA) to keep my memory. An [Patreon site](https://www.patreon.com/hkab) to look 🆒
+
+I have a [Tiktok channel](https://www.tiktok.com/@xucxacxucxich) to keep up with the trend.
 
 ### Contact me 📮
 

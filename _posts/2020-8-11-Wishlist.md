@@ -22,7 +22,7 @@ excerpt: This is the wish list I update once in a while
 
 [ ]  See Eminem
 
-[ ]  Youtube > 1000 sub
+[ ]  Youtube > 1000 sub (11/1000)
 
 [ ]  Have a camera (Fujifilm XT20 18-55mm Kit)
 
