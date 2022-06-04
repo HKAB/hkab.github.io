@@ -1,12 +1,30 @@
 ---
 layout: page
-title: About
+# title: About
 permalink: /about/
 ---
 
-I'm interested in art (my favorite painter is Monet).
+## Education
+University of Engineering and Technology (UET-VNU), Vietnam: GPA: 3.61/4.0
 
-I'm always bad at picking important date (It's always rainy).
+## Certificates
+
+TOEIC Reading and Listening: 960/990
+
+TOEIC Speaking and Writing: 310/400
+
+## Skills
+Technical Skills: Python, C, C++, Java(OOP), SQL
+
+ML skills: Data structures and algorithms, machine learning algorithms, deep learning models and maths
+
+Frameworks: Pytorch, sklearn
+
+## Others
+
+I'm interested in art (Monet is my favorite painter).
+
+I remember a lot of lines in The Tale of Kieu.
 
 ### Social accounts
 
