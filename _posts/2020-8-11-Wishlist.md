@@ -4,32 +4,30 @@ title: Wishlist 🌠
 excerpt: This is the wish list I update once in a while
 ---
 
-[ ]  Write a book
+[  ]  Write a book
 
-[ ]  Draw a picture a year (2021: Draw [a lot]('Updating'))
+[  ]  Draw a picture a year (2021: Draw [a lot]('Updating'))
 
-[ ]  Visit London, Albuquerque, Paris (...)
+[  ]  Visit London, Albuquerque, Paris, Florence, Venice (...)
 
-[ ]  Get an AI Engineer job
+[✔]  Get an AI Engineer job (AI Engineer Trainee at VinBigData)
 
-[ ]  A great github repo
+[  ]  A great github repo
 
-[ ]  Get a job teaching sth
+[  ]  Get a teaching job
 
-[ ]  Kaggle Competition Master
+[  ]  Have the IELTS certificate
 
-[ ]  Have the IELTS certificate
+[  ]  See Eminem
 
-[ ]  See Eminem
+[  ]  Youtube > 1000 sub (11/1000)
 
-[ ]  Youtube > 1000 sub (11/1000)
+[  ]  Have a camera (Fujifilm XT20 18-55mm Kit)
 
-[ ]  Have a camera (Fujifilm XT20 18-55mm Kit)
+[  ]  Publish a paper
 
-[ ]  Publish a paper
+[  ]  Have a long journey by foot/bicycle
 
-[ ]  Have a long journey by foot/bicycle
+[  ] A book/month (streak: 1 [The Plague, The Trial])
 
-[ ] A book/month (streak: 1 [The Plague, The Trial])
-
-[ ] Learn by heart 3254 verses of a poem (600/3254)
+[  ] Learn by heart 3254 verses of a poem (800/3254)
