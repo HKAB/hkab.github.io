@@ -16,9 +16,11 @@ excerpt: This is the wish list I update once in a while
 
 [  ]  Get a teaching job
 
-[  ]  Have the IELTS certificate
+[  ]  IELTS 7.5
 
-[  ]  See Eminem
+[  ]  French B1
+
+[  ]  See Eminem in person
 
 [  ]  Youtube > 1000 sub (11/1000)
 
