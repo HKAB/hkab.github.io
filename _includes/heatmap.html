@@ -1,0 +1,31 @@
+<div>
+    <span>Currently, I'm learning The Tails of Kieu, Ultimate Geography.</span>
+</div>
+
+<div id="previousSelector-a">
+    <a id="previousSelector-a-previous" href="#">◀</a>
+    <a id="previousSelector-a-next" href="#">▶</a>
+</div>
+
+<script type="text/javascript">
+
+    var cal = new CalHeatMap();
+    cal.init({
+        itemSelector: "#previousSelector-a",
+        previousSelector: "#previousSelector-a-previous",
+        nextSelector: "#previousSelector-a-next",
+        range: 1,
+        cellSize: 12,
+        domain: "year",
+        subDomain: "day",
+        data: "/images/data.json",
+        highlight: "now",
+        displayLegend: false,
+        itemName: ["card", "cards"],
+        tooltip: true,
+        subDomainTitleFormat: {
+            'empty': 'No reviews on <b>{date}</b>',
+            'filled': '<b>{count}</b> reviews on <b>{date}</b>'
+        }
+    });
+</script>

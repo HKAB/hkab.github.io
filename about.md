@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+## Anki heatmap (update each week)
+
+{% include heatmap.html %}
+
 ## Education
 University of Engineering and Technology (UET-VNU), Vietnam: GPA: 3.61/4.0
 
@@ -22,7 +26,7 @@ Frameworks: Pytorch, sklearn
 
 ## Others
 
-I'm interested in art (Monet is my favorite painter).
+I'm interested in art & philosophy.
 
 I remember a lot of lines in The Tale of Kieu.
 

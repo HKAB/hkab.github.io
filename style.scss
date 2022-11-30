@@ -287,6 +287,36 @@ footer {
   color: '#2d3436';
 }
 
+#previousSelector-a {
+  text-align: right;
+  margin-left: -10px;
+  margin-top: 10px;
+}
+
+.cal-heatmap-container {
+  margin-top: 10px;
+}
+
+#previousSelector-a-previous {
+  background: #e6e6e6;
+  color: #808080;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-left: 2px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+#previousSelector-a-next {
+  background: #e6e6e6;
+  color: #808080;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-left: 2px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
