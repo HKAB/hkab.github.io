@@ -8,34 +8,27 @@ permalink: /about/
 
 {% include heatmap.html %}
 
-## Education
-University of Engineering and Technology (UET-VNU), Vietnam: GPA: 3.61/4.0
+## Career
+I studied at University of Engineering and Technology (UET-VNU), Vietnam (2018-2022)
 
-## Certificates
+Previously I interned at Vinbigdata (2022-2023)
 
-TOEIC Reading and Listening: 960/990
+Currently I work at FTECH as Speech AI Engineer (2024)
 
-TOEIC Speaking and Writing: 310/400
+## Intro
 
-## Skills
-Technical Skills: Python, C, C++, Java(OOP), SQL
-
-ML skills: Data structures and algorithms, machine learning algorithms, deep learning models and maths
-
-Frameworks: Pytorch, sklearn
-
-## Others
-
-I'm interested in art & philosophy.
-
-I remember a lot of lines in The Tale of Kieu.
+- I try to keep my life simple to make my mind as complex as possible
+- I'm interested in everything make my mind hurt in a good way, like art or philosophy
+- I love memorizing (I'm using Anki to learn Poem, Geography and French!)
+- I sometimes draw
+- My favorite writers are: Nam Cao, Nguyen Huy Thiep
 
 ### Social accounts
 
-I have a [Youtube channel](https://www.youtube.com/channel/UCEfdtF7584ZuzqLtKziPZgA) to keep my memory. An [Patreon site](https://www.patreon.com/hkab) to look 🆒
+I have a [Youtube channel](https://www.youtube.com/channel/UCEfdtF7584ZuzqLtKziPZgA) to keep my memory.
 
-I have a [Tiktok channel](https://www.tiktok.com/@xucxacxucxich) to keep up with the trend.
+I have an [Instagram page](https://www.instagram.com/truophung/) to store my drawing
 
 ### Contact me 📮
 
-[myfullnamemybirthday@gmail.com](mailto:nguyenphutruong2707@gmail.com)
+[nguyenphutruong2707@gmail.com](mailto:nguyenphutruong2707@gmail.com)

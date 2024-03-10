@@ -6,11 +6,11 @@ excerpt: This is the wish list I update once in a while
 
 [  ]  Write a complete, useful book
 
-[  ]  Draw a picture a week (2022 🔃)
+[  ]  Draw a fine picture
 
-[  ]  Visit London, Albuquerque, Paris, Florence, Venice
+[  ]  Visit every country in the World and check their meta in Geoguessor
 
-[✔]  Get an AI Engineer job (AI Engineer Trainee at VinBigData)
+[✔]  Get an AI Engineer job (AI Engineer Trainee at VinBigData -> Speech AI Engineer at FTECH)
 
 [  ]  Have a great github repo
 
@@ -20,7 +20,7 @@ excerpt: This is the wish list I update once in a while
 
 [  ]  French B1
 
-[  ]  Youtube > 1000 sub (11/1000)
+[  ]  Youtube > 1000 sub (27/1000)
 
 [  ]  Have a camera (Fujifilm XT20 18-55mm Kit)
 
@@ -28,6 +28,4 @@ excerpt: This is the wish list I update once in a while
 
 [  ]  Have a long journey by foot/bicycle
 
-[  ] A book/month ([[#1](https://www.goodreads.com/book/show/11989.The_Plague) [#2](https://www.goodreads.com/book/show/17690.The_Trial?ref=nav_sb_ss_2_9) [#3](https://www.goodreads.com/book/show/25658482-at-the-existentialist-caf?ref=nav_sb_ss_1_26) ])
-
-[  ] Learn by heart 3254 verses of a poem (1000/3254)
+[  ] Learn by heart 3254 verses of a poem (1700/3254)
