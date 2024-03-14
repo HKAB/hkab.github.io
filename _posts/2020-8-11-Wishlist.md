@@ -2,6 +2,7 @@
 layout: post
 title: Wishlist 🌠
 excerpt: This is the wish list I update once in a while
+categories: Personal
 ---
 
 [  ]  Write a complete, useful book
