@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+</article>
+
+<script src="https://www.youtube.com/player_api"></script>
+<script>
+var player, seconds = 0;
+function onYouTubeIframeAPIReady() {
+    console.log("player");
+    player = new YT.Player('player', {
+        events: {
+          'onReady': onPlayerReady
+        }
+      });
+}
+
+function onPlayerReady(event) {
+    event.target.playVideo();
+}
+
+
+function go_to(sec){
+    if(player){
+        player.seekTo(sec, true);
+        player.playVideo();
+    }
+}
+</script>
