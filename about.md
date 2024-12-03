@@ -15,6 +15,10 @@ Previously I interned at Vinbigdata (2022-2023)
 
 Currently I work at FTECH as Speech AI Engineer (2024)
 
+<a href="https://www.death-clock.org">
+  <img src="https://www.death-clock.org/makeimg.php?dod=Thursday, 28th July&yod=2067&aod=Age 67" alt="I just got my owne death prediction from the Death Clock" width="220" height="180" border="0" />
+</a>
+
 ## Intro
 
 - I try to keep my life simple to make my mind as complex as possible
