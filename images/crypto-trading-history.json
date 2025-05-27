@@ -1,6 +1,17 @@
 {
   "history": [
     {
+      "total_equity": "220.75270667",
+      "date": "2025-05-26 09:06:16",
+      "all_future_position": [
+        {
+          "symbol": "ICPUSDT",
+          "leverage": "2",
+          "ROI": 0.09664848012470771
+        }
+      ]
+    },
+    {
       "total_equity": "213.56085667",
       "date": "2025-05-27 02:36:40",
       "all_future_position": [

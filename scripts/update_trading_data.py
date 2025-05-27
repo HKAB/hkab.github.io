@@ -17,10 +17,10 @@ def main():
 
     all_future_position = session.get_positions(category='linear', settleCoin='USDT')['result']['list']
 
-    if not os.path.exists('images/crypto-equity-history.json'):
+    if not os.path.exists('images/crypto-trading-history.json'):
         equity_history = {'history': []}
     else:
-        equity_history = json.load(open('images/crypto-equity-history.json', 'r'))
+        equity_history = json.load(open('images/crypto-trading-history.json', 'r'))
 
     equity_history['history'].append({
         'total_equity': total_equity,
