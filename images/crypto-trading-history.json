@@ -21,6 +21,22 @@
           "ROI": -0.02479955656905027
         }
       ]
+    },
+    {
+      "total_equity": "218.64221426",
+      "date": "2025-05-28 00:15:10",
+      "all_future_position": [
+        {
+          "symbol": "ICPUSDT",
+          "leverage": "2",
+          "ROI": 0.0194754678634116
+        },
+        {
+          "symbol": "ETHUSDT",
+          "leverage": "3",
+          "ROI": 0.015947570463580685
+        }
+      ]
     }
   ]
 }
