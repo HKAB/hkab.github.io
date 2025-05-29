@@ -37,6 +37,17 @@
           "ROI": 0.015947570463580685
         }
       ]
+    },
+    {
+      "total_equity": "55.54764",
+      "date": "2025-05-29 00:15:01",
+      "all_future_position": [
+        {
+          "symbol": "MAVIAUSDT",
+          "leverage": "5",
+          "ROI": -0.12315270935960593
+        }
+      ]
     }
   ]
 }
