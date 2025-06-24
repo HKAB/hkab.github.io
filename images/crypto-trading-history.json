@@ -159,6 +159,17 @@
       "total_equity": "169.6810447",
       "date": "2025-06-23 02:01:29",
       "all_future_position": []
+    },
+    {
+      "total_equity": "244.95076068",
+      "date": "2025-06-24 01:45:57",
+      "all_future_position": [
+        {
+          "symbol": "BTCUSDT",
+          "leverage": "5",
+          "ROI": 0.19425030836286417
+        }
+      ]
     }
   ]
 }
