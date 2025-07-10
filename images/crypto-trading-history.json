@@ -298,6 +298,17 @@
       "total_equity": "219.43386846",
       "date": "2025-07-09 00:15:46",
       "all_future_position": []
+    },
+    {
+      "total_equity": "226.27430311",
+      "date": "2025-07-10 00:15:52",
+      "all_future_position": [
+        {
+          "symbol": "BDXNUSDT",
+          "leverage": "3",
+          "ROI": 0.11442618957189131
+        }
+      ]
     }
   ]
 }
