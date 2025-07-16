@@ -340,6 +340,17 @@
       "total_equity": "249.00415052",
       "date": "2025-07-15 00:16:21",
       "all_future_position": []
+    },
+    {
+      "total_equity": "268.58887823",
+      "date": "2025-07-16 00:15:53",
+      "all_future_position": [
+        {
+          "symbol": "PIPPINUSDT",
+          "leverage": "4",
+          "ROI": 0.08231368186874305
+        }
+      ]
     }
   ]
 }
