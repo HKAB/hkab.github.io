@@ -400,6 +400,17 @@
       "total_equity": "145.90633623",
       "date": "2025-07-21 00:17:23",
       "all_future_position": []
+    },
+    {
+      "total_equity": "257.22403679",
+      "date": "2025-07-22 00:16:31",
+      "all_future_position": [
+        {
+          "symbol": "SWARMSUSDT",
+          "leverage": "10",
+          "ROI": 0.24586530807043624
+        }
+      ]
     }
   ]
 }
