@@ -427,6 +427,22 @@
       "total_equity": "1.32073897",
       "date": "2025-07-24 00:16:07",
       "all_future_position": []
+    },
+    {
+      "total_equity": "16.51316731",
+      "date": "2025-07-25 00:16:24",
+      "all_future_position": [
+        {
+          "symbol": "SPXUSDT",
+          "leverage": "3",
+          "ROI": -0.19523758215709514
+        },
+        {
+          "symbol": "JUPUSDT",
+          "leverage": "3",
+          "ROI": 0.008980355472404115
+        }
+      ]
     }
   ]
 }
