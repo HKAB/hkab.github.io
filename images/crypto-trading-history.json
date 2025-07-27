@@ -448,6 +448,17 @@
       "total_equity": "13.91579553",
       "date": "2025-07-26 00:15:44",
       "all_future_position": []
+    },
+    {
+      "total_equity": "13.49849536",
+      "date": "2025-07-27 00:18:05",
+      "all_future_position": [
+        {
+          "symbol": "SPKUSDT",
+          "leverage": "5",
+          "ROI": -0.4297879890002661
+        }
+      ]
     }
   ]
 }
