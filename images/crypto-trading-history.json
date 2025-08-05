@@ -469,6 +469,17 @@
       "total_equity": "18.26871474",
       "date": "2025-08-04 01:49:50",
       "all_future_position": []
+    },
+    {
+      "total_equity": "19.71208098",
+      "date": "2025-08-05 00:16:48",
+      "all_future_position": [
+        {
+          "symbol": "SHIB1000USDT",
+          "leverage": "5",
+          "ROI": 0.06518746457203012
+        }
+      ]
     }
   ]
 }
