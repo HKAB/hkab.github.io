@@ -510,6 +510,17 @@
       "total_equity": "159.83371999",
       "date": "2025-08-11 00:17:18",
       "all_future_position": []
+    },
+    {
+      "total_equity": "183.75562878",
+      "date": "2025-08-12 00:15:45",
+      "all_future_position": [
+        {
+          "symbol": "MLNUSDT",
+          "leverage": "2",
+          "ROI": -0.19980732665061499
+        }
+      ]
     }
   ]
 }
