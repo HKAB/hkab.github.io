@@ -672,6 +672,17 @@
       "total_equity": "542.5396133",
       "date": "2025-09-17 00:14:31",
       "all_future_position": []
+    },
+    {
+      "total_equity": "577.80518791",
+      "date": "2025-09-18 00:15:15",
+      "all_future_position": [
+        {
+          "symbol": "DOGEUSDT",
+          "leverage": "5",
+          "ROI": 0.35606688257889585
+        }
+      ]
     }
   ]
 }
